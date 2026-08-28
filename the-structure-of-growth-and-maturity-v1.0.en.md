@@ -1025,7 +1025,7 @@ This is
 _**Figure 3: Strategy for the Future**_
 ![Figure 3: Strategy for the Future](figures/Strategy_for_the_Future.en.png)
 
-_**Figure 4: 生命の使命と成長・成熟**_
+_**Figure 4: Life's Mission, Growth & Maturity**_
 ![Figure 4: Life's Mission, Growth & Maturity](figures/Life's_Mission,_Growth_and_Maturity.en.png)
 
 ---
