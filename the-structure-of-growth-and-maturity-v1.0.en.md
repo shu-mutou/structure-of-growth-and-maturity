@@ -16,7 +16,7 @@ Licensed under the Creative Commons Attribution 4.0 International License (CC BY
 
 **Note:** This English edition was translated by a generative AI (Claude Sonnet 5.0 / Anthropic and GPT-5.6 Sol / OpenAI). The original Japanese text is the authoritative version.
 
-GitHub: https://github.com/shu-mutou/structure-of-open-innovation  
+GitHub: https://github.com/shu-mutou/structure-of-growth-and-maturity  
 DOI: https://doi.org/10.5281/zenodo.22138836
 
 ---
