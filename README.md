@@ -3,6 +3,8 @@
 
 **The Structure of Growth and Maturity: The Value-Creating Subject Sustaining Human Society**
 
+Please refer [zenodo](https://zenodo.org/records/22138836) (DOI: [10.5281/zenodo.22138836](https://doi.org/10.5281/zenodo.22138836))
+
 ---
 
 **著者 / Author:** 武藤 周 (Shu Muto)  
