@@ -46,7 +46,7 @@ Note: The English edition was translated by a generative AI (Claude Sonnet 5.0 /
 1. 生命の定義と理 / The Definition and Principle of Life
 2. 成長という理 / The Principle of Growth
 3. 意味という理 / The Principle of Meaning
-4. 成熟という理 / Principle of Maturity
+4. 成熟という理 / The Principle of Maturity
 5. 進化という理 / The Principle of Evolution
 6. 価値創造主体と構造 / The Value-Creating Subject and Structure
 7. 文化という理 / The Principle of Culture
