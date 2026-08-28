@@ -1,14 +1,14 @@
 The Structure of Growth and Maturity — The Value-Creating Subject Sustaining Human Society —
 =================================================
 
-2026-8-28
-NEC Solution Innovators, Ltd.
-Innovation Laboratory
-Technology Strategy Group
-Open Source Strategy Professional
+2026-8-28  
+NEC Solution Innovators, Ltd.  
+Innovation Laboratory  
+Technology Strategy Group  
+Open Source Strategy Professional  
 Shu Muto
 
-© 2026 Shu Muto
+© 2026 Shu Muto  
 Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 **Note:** This English edition was translated by a generative AI (Claude Sonnet 5.0 / Anthropic and GPT-5.6 Sol / OpenAI). The original Japanese text is the authoritative version.
@@ -33,17 +33,17 @@ Still, this definition alone has stayed with me for more than thirty years.
 
 Rather than simply staying with me, I have kept thinking by means of it.
 
-Why do people work?
-Why do we seek growth?
-Why do we raise children, pass on knowledge, and leave behind culture?
-Or: why do organizations, societies, and civilizations rise and fall?
+Why do people work?  
+Why do we seek growth?  
+Why do we raise children, pass on knowledge, and leave behind culture?  
+Or: why do organizations, societies, and civilizations rise and fall?  
 And what does it mean to "live"?
 
 Whenever I have faced such questions, I have returned to life's three activities.
 
-Generate energy.
-Leave offspring.
-Evolve.
+Generate energy.  
+Leave offspring.  
+Evolve.  
 
 I think that at least once a month, I have thought about people and society through this view of life. Work, family, education, organizations, technology, culture, institutions, society — the subject has changed, but the starting point has not.
 
@@ -63,9 +63,9 @@ Just as life has evolved amid a changing environment, human society too must kee
 
 And yet, while human beings are a form of life, we do not leave these workings to instinct alone.
 
-People choose what to leave behind.
-People consider what to inherit and what to refuse.
-People decide what kind of change they want.
+People choose what to leave behind.  
+People consider what to inherit and what to refuse.  
+People decide what kind of change they want.  
 And people can entrust something to a time that will never come to them.
 
 In this book, I call that time "the future" (未来 — that which has not yet come).
@@ -83,8 +83,8 @@ And yet, life keeps working toward it.
 
 It means to practice the principle of life.
 
-> Generate energy,
-> hand value on to what comes next,
+> Generate energy,  
+> hand value on to what comes next,  
 > and keep changing in order to raise the possibility of sustaining that value.
 
 In human beings, this appears as growing, finding meaning, maturing, and evolving.
@@ -93,8 +93,8 @@ This book does not aim to settle a strict definition of life. Nor does it try to
 
 It sets down, as one line of reasoning, the view of life that I have held onto, without letting go, for more than thirty years.
 
-For roughly four billion years, life has handed its workings on without a break. At the end of that chain, I now exist here.
-Simply tracing this fact alone might be enough to arrive at the same view of life.
+For roughly four billion years, life has handed its workings on without a break. At the end of that chain, I now exist here.  
+Simply tracing this fact alone might be enough to arrive at the same view of life.  
 But what makes this view unshakeable for me is that I studied biology and encountered, firsthand, the almost miraculous precision of life's mechanisms.
 
 If we could think not only of our own growth, but also of what to entrust to a time beyond ourselves —
@@ -132,7 +132,7 @@ This book is about human society.
 * Why do we pass on knowledge, cultivate culture, build organizations, and construct societies?
 * And what does it mean to "live"?
 
-This book considers these questions.
+This book considers these questions.  
 But it does not place its starting point in psychology, management studies, or philosophy.
 
 > It places it in life.
@@ -140,13 +140,13 @@ But it does not place its starting point in psychology, management studies, or p
 The reason is simple.
 > **Because human beings are life.**
 
-The education, enterprises, nations, culture, and technology that humans practice all arise from the workings of human society as a form of life.
+The education, enterprises, nations, culture, and technology that humans practice all arise from the workings of human society as a form of life.  
 If that is so, then to understand them, it is not enough to look only at human beings.
 
 > We must return to the underlying workings of life itself.
 
-For roughly four billion years, life has been handed down without a break.
-During that time the environment changed again and again; many species arose, and many went extinct.
+For roughly four billion years, life has been handed down without a break.  
+During that time the environment changed again and again; many species arose, and many went extinct.  
 Even so, life continued.
 
 In this book, we call the workings life has practiced over these long ages **the principle of life**.
@@ -160,7 +160,7 @@ Human society is no exception.
 * mature,
 * and keep changing.
 
-This book reads this sequence of activities through the lens of the principle of life, and considers
+This book reads this sequence of activities through the lens of the principle of life, and considers  
 **what it means to "live" within human society**.
 
 ---
@@ -187,8 +187,8 @@ Without the capacity to evolve, life cannot adapt to environmental change, and e
 
 These three are the conditions that constitute life.
 
-They naturally form a cycle,
-which means this definition does not take the **individual** as its subject.
+They naturally form a cycle,  
+which means this definition does not take the **individual** as its subject.  
 The subject of life is not the individual, but the **species**.
 
 ---
@@ -215,7 +215,7 @@ Life is the ongoing work of continuing into the future as a species.
 
 What follows from the definition of life, this book calls **the principle of life**.
 
-In the principle of life, what matters most is not evolution.
+In the principle of life, what matters most is not evolution.  
 Nor is it diversity, nor prosperity.
 
 It is **enduring as a species**.
@@ -238,17 +238,17 @@ What matters here is that **evolution is not the goal**.
 
 > Evolution is **the capacity to secure sustainability as a species**.
 
-The environment surrounding life is always changing.
-When the environment changes, survival strategies that had been effective may no longer work.
-For that reason, life keeps changing.
+The environment surrounding life is always changing.  
+When the environment changes, survival strategies that had been effective may no longer work.  
+For that reason, life keeps changing.  
 Change itself is not the goal.
 
 > **The capacity to change was acquired in order to secure sustainability as a species.**
 
-However, evolution does not guarantee sustainability.
+However, evolution does not guarantee sustainability.  
 Life that cannot evolve loses its capacity to adapt to environmental change and raises its risk of extinction.
 
-On the other hand, even a species that has evolved can go extinct due to environmental conditions or external factors.
+On the other hand, even a species that has evolved can go extinct due to environmental conditions or external factors.  
 And some forms of life, without evolving, manage to survive modestly in a closed environment.
 
 That is precisely why, in this book, evolution is positioned not as sustainability itself, but as **a capacity for raising the possibility of sustainability**.
@@ -257,35 +257,35 @@ That is precisely why, in this book, evolution is positioned not as sustainabili
 
 ## 1.5 Diversity and Prosperity
 
-Evolution does not proceed in a single direction.
+Evolution does not proceed in a single direction.  
 Life attempts a variety of possibilities.
 
 > **Diversity** is the wellspring of that.
 
 Diversity is the possibility of evolution.
 
-Because different individuals and different strategies exist, the possibility of adapting to environmental change expands.
+Because different individuals and different strategies exist, the possibility of adapting to environmental change expands.  
 But diversity itself is not the goal.
 
 > Diversity is a property that raises a species' sustainability.
 
 And when diversity functions sufficiently and sustainability is secured over a long span, life **prospers**.
 
-Prosperity, as this book uses the term, does not mean a temporary success or an increase in population.
+Prosperity, as this book uses the term, does not mean a temporary success or an increase in population.  
 Nor does it call a state of merely surviving modestly "prosperity."
 
 Prosperity refers to
 
 > **a state in which value creation through diversity continues, founded on sustainability.**
 
-> Sustainability is the precondition for prosperity,
+> Sustainability is the precondition for prosperity,  
 > and prosperity is the ideal state built upon it.
 
 ---
 
 ## 1.6 Human Society as a Practice of Life
 
-Human beings, too, are life.
+Human beings, too, are life.  
 Therefore, human society cannot escape the principle of life either.
 
 However, human beings are not merely biological beings; we are beings who possess culture.
@@ -323,7 +323,7 @@ In this book, "to live" does not mean
 * nor an individual growing,
 * nor self-actualization.
 
-It means practicing the definition of life.
+It means practicing the definition of life.  
 That is,
 
 * generating energy,
@@ -334,17 +334,17 @@ Therefore,
 
 > "The growth of the individual" is not, in itself, "to live."
 
-It corresponds to the process of energy generation, the first stage of life.
+It corresponds to the process of energy generation, the first stage of life.  
 Life does not complete itself within the individual.
 
 The whole of the work of continuing into the future as a species is what this book calls "to live."
 
-In contemporary society, "to live" is often used to mean an individual's happiness or self-actualization.
+In contemporary society, "to live" is often used to mean an individual's happiness or self-actualization.  
 These are important activities for human beings.
 
 However, this book does not equate them with the whole of life's workings.
 
-An individual's growth matters.
+An individual's growth matters.  
 But it is the starting point of life, not its terminus.
 
 _**Figure 1: The Principle of Life**_
@@ -356,7 +356,7 @@ The next chapter considers the first stage of that: "growth," that is, the gener
 
 ---
 
-> **"Life does not complete itself within the individual."**
+> **"Life does not complete itself within the individual."**  
 > **"Yet the principle of life begins with the individual's growth."**
 
 ---
@@ -367,7 +367,7 @@ The next chapter considers the first stage of that: "growth," that is, the gener
 
 In the definition of life, the first element to appear is **the generation of energy**.
 
-Life must acquire the energy to sustain its own activity.
+Life must acquire the energy to sustain its own activity.  
 An individual's growth is the process of raising this capacity to generate energy.
 
 * Building the body.
@@ -414,7 +414,7 @@ It continues to be cited widely today in education, talent development, and mana
 
 However, this book rereads Maslow through the lens of the principle of life.
 
-What Maslow explained is **the growth of the individual**.
+What Maslow explained is **the growth of the individual**.  
 Held against the definition of life, this corresponds to **energy generation**.
 
 * Seeking safety.
@@ -448,7 +448,7 @@ Let us look at contemporary society here.
 * "Enjoying your life."
 * "Self-actualization."
 
-Such phrases are spoken of endlessly.
+Such phrases are spoken of endlessly.  
 I do not intend to deny them.
 
 But this book does not regard them as **the whole picture of life**.
@@ -461,23 +461,23 @@ that is, merely the stage of energy generation.
 
 Life does not complete itself within the individual.
 
-> It is a workings that hands value on to the future,
+> It is a workings that hands value on to the future,  
 > while further raising sustainability amid a changing environment.
 
 If society as a whole makes growth alone its aim, the principle of life stops midway.
 
-If we pursue only the fulfillment of the individual and the handing-on to the next generation weakens,
-> the birthrate falls, knowledge is lost,
+If we pursue only the fulfillment of the individual and the handing-on to the next generation weakens,  
+> the birthrate falls, knowledge is lost,  
 > and organizations lose the ability to develop successors.
 
-This is not merely a population problem.
+This is not merely a population problem.  
 Seen through the principle of life, it is **a state in which energy generation alone has swollen out of proportion.**
 
 ---
 
 ## 2.5 Growth Is Preparation for the Future
 
-So what is growth for?
+So what is growth for?  
 This book does not treat growth as an end in itself.
 
 Growth is
@@ -513,14 +513,14 @@ Growth is
 
 > the acquisition of the power to create value,
 
-and it does not answer the question of what that power is for.
+and it does not answer the question of what that power is for.  
 It is only here that
 
 > a person begins to seek "meaning."
 
 ---
 
-> **"Growth gives the power to create value."**
+> **"Growth gives the power to create value."**  
 > **"Meaning gives that power a direction."**
 
 ---
@@ -529,14 +529,14 @@ It is only here that
 
 ## 3.1 Growth Alone Does Not Satisfy
 
-One's capacities are sufficiently developed.
-Life is no longer a struggle.
-One is recognized socially.
+One's capacities are sufficiently developed.  
+Life is no longer a struggle.  
+One is recognized socially.  
 And yet, people go on asking.
 
 > "What is this power for?"
 
-The further growth advances, the more unavoidable this question becomes.
+The further growth advances, the more unavoidable this question becomes.  
 Growth gives capacity. But capacity alone does not decide its direction.
 
 ---
@@ -581,7 +581,7 @@ Therefore,
 
 > "There is no meaning to living."
 
-This does not mean that living is meaningless.
+This does not mean that living is meaningless.  
 Because, as a form of life, "to live" is already the supreme mission given to us.
 
 Meaning is what determines
@@ -631,11 +631,11 @@ Meaning is
 
 But
 
-> by finding meaning,
+> by finding meaning,  
 > a person begins to turn their gaze outside themselves —
 
-toward the future.
-Toward the next generation.
+toward the future.  
+Toward the next generation.  
 Toward society.
 
 From here,
@@ -675,7 +675,7 @@ In the principle of life,
 
 Meaning is
 
-> the first step of becoming aware of one's mission
+> the first step of becoming aware of one's mission  
 > and beginning to walk toward the future.
 
 When that walk becomes
@@ -694,7 +694,7 @@ from the perspective of maturity.
 
 ---
 
-> **"Meaning is the sprout of awareness of one's mission."**
+> **"Meaning is the sprout of awareness of one's mission."**  
 > **"The value-creating subject is the one who practices that mission."**
 
 ---
@@ -713,7 +713,7 @@ This book calls that walk **maturity**.
 
 > Maturity is transforming into a subject that hands value on to the future.
 
-It is not merely accumulating years.
+It is not merely accumulating years.  
 Nor is it simply having more knowledge or experience.
 
 > It is coming to use the capacities one has acquired not only for oneself, but for the future.
@@ -724,7 +724,7 @@ Nor is it simply having more knowledge or experience.
 
 Erik Erikson organized human development into eight stages.
 
-Among them, the important task he presented for adulthood is **generativity**.
+Among them, the important task he presented for adulthood is **generativity**.  
 Generativity refers to the activity of nurturing the next generation, contributing to society, and sustaining the future.
 
 It is not only about raising children.
@@ -742,7 +742,7 @@ Erikson regarded a human being's expansion of concern beyond the self as an impo
 
 ## 4.3 What Are Offspring
 
-Life leaves offspring.
+Life leaves offspring.  
 In biology, this means the transmission of genes.
 
 But in human society, it does not stop there.
@@ -788,14 +788,14 @@ That is precisely why
 
 ## 4.5 Maturity Transcends the Individual
 
-Maturity is not sacrificing oneself.
+Maturity is not sacrificing oneself.  
 Nor is it denying self-actualization.
 
 Rather, it is precisely because one has grown sufficiently that one can nurture others and return value to society.
 
 Maturity is
 
-> a shift from self-centered value creation
+> a shift from self-centered value creation  
 > to future-centered value creation.
 
 It might be
@@ -822,7 +822,7 @@ However, maturity too has its limits.
 
 However much value is handed down,
 
-> when the environment changes,
+> when the environment changes,  
 > yesterday's value does not necessarily hold today.
 
 * Knowledge is updated.
@@ -831,14 +831,14 @@ However much value is handed down,
 
 > Inheritance alone will eventually leave value stranded by the times.
 
-Life has survived some four billion years not merely by handing on value, but by continuing to change.
+Life has survived some four billion years not merely by handing on value, but by continuing to change.  
 Human society is no exception.
 
 The next chapter considers this principle of life: "continuing to change."
 
 ---
 
-> **"Maturity hands value on to the future."**
+> **"Maturity hands value on to the future."**  
 > **"Evolution keeps adapting that value to the future."**
 
 ---
@@ -847,7 +847,7 @@ The next chapter considers this principle of life: "continuing to change."
 
 ## 5.1 Inheritance Alone Does Not Sustain
 
-A matured value-creating subject hands value on to the future.
+A matured value-creating subject hands value on to the future.  
 That was the workings of life's principle of "leaving offspring."
 
 But that alone is not enough.
@@ -865,7 +865,7 @@ If we repeat inheritance alone,
 
 Life
 
-> acquired the capacity to change
+> acquired the capacity to change  
 > at the same time as it inherited.
 
 That is precisely why
@@ -925,7 +925,7 @@ This is precisely
 
 In human society,
 
-> changes that no single lifetime could ever achieve
+> changes that no single lifetime could ever achieve  
 > can be accumulated across generations.
 
 This is precisely
@@ -936,18 +936,18 @@ This is precisely
 
 ## 5.4 Evolving Amid Uncertainty
 
-We cannot fully predict the future.
+We cannot fully predict the future.  
 Yet that does not mean we can stand still.
 
 This attitude connects to the concept of **negative capability**.
 
-Not knowing the future does not mean closing off uncertainty with easy answers.
+Not knowing the future does not mean closing off uncertainty with easy answers.  
 Holding contradiction and ambiguity as they are, one still observes, tries, and keeps thinking.
 
-> **Maturity is not having an answer quickly.**
+> **Maturity is not having an answer quickly.**  
 > **It is also being able to keep judging even amid uncertainty, without rushing to an answer.**
 
-Since the future cannot be fully predicted, what evolution requires is not "knowing the correct answer,"
+Since the future cannot be fully predicted, what evolution requires is not "knowing the correct answer,"  
 but **the capacity to endure a state in which no correct answer yet exists, while still preserving possibility.**
 
 Life, over roughly **four billion years**,
@@ -968,7 +968,7 @@ And then,
 
 Evolution is
 
-> not the capacity to predict the future.
+> not the capacity to predict the future.  
 > It is the capacity to keep preparing for the future.
 
 ---
@@ -977,7 +977,7 @@ Evolution is
 
 This book has positioned diversity as **the possibility of evolution**.
 
-Diversity does not exist for the present alone.
+Diversity does not exist for the present alone.  
 We do not know what environment the future will bring.
 
 That is precisely why it matters that
@@ -997,7 +997,7 @@ Diversity is
 
 ## 5.6 The Value-Creating Subject Keeps Evolving
 
-A value-creating subject creates value.
+A value-creating subject creates value.  
 It hands value on to the future.
 
 And then,
@@ -1030,15 +1030,15 @@ _**Figure 4: 生命の使命と成長・成熟**_
 
 ---
 
-> Life, over roughly four billion years, has raised the sustainability of its species by growing, handing on value, and continuing to change.
-> Human society, too, stands upon this principle of life.
+> Life, over roughly four billion years, has raised the sustainability of its species by growing, handing on value, and continuing to change.  
+> Human society, too, stands upon this principle of life.  
 > Enterprises, education, politics, science, and technology cannot escape this principle.
 
 In the latter half of this book, building on this principle of life, we consider how the value-creating subject expands into organizations, society, and, ultimately, civilization.
 
 ---
 
-> **"The maturity of one person alone does not sustain society."**
+> **"The maturity of one person alone does not sustain society."**  
 > **"When value-creating subjects connect with one another and combine with structure, a sustainability beyond the individual is born."**
 
 ---
@@ -1066,7 +1066,7 @@ But however maturely a single human being lives, that person will one day be gon
 
 none exists forever.
 
-Nor is that all.
+Nor is that all.  
 There are limits even to a single person's act of handing their own value on to the future.
 
 * Transmitting knowledge requires someone to receive it.
@@ -1436,7 +1436,7 @@ The next chapter considers this workings from the perspective of **culture**.
 
 ---
 
-> **"The maturity of one person alone does not produce sustainability."**
+> **"The maturity of one person alone does not produce sustainability."**  
 > **"When subject interacts with subject, and structure, and even the reasoning behind it is handed on to the future, a sustainability beyond the individual is born."**
 
 ---
@@ -1561,10 +1561,10 @@ But,
 
 > **preservation and inheritance are not the same thing.**
 
-Information can be preserved.
+Information can be preserved.  
 Knowledge, too, can be preserved to some degree.
 
-But reasoning cannot be preserved,
+But reasoning cannot be preserved,  
 because reasoning is not mere information —
 
 > **it works only once a subject who has understood it judges and practices it within reality.**
@@ -1683,7 +1683,7 @@ It is only within this messy interaction that reasoning first takes root within 
 
 > **Culture cannot be summarized.**
 
-One can learn culture using summarized information.
+One can learn culture using summarized information.  
 But,
 
 > the summary itself is not culture.
@@ -1704,7 +1704,7 @@ But we must recall the principle of life seen in Chapter 5.
 
 > **To sustain, the capacity to change is necessary.**
 
-Culture is no exception.
+Culture is no exception.  
 If culture is fixed completely, it is left behind by a changing environment.
 
 That is why culture must
@@ -1792,7 +1792,7 @@ When that meaning turns outward, beyond the self,
 
 But one person alone cannot hand value on to the future.
 
-> There, the subject connects with other subjects,
+> There, the subject connects with other subjects,  
 > and builds a **structure** that supports that interaction.
 
 And then,
@@ -1808,7 +1808,7 @@ This state
 
 Therefore,
 
-> **culture is not preserving the past.**
+> **culture is not preserving the past.**  
 > **It is continuing to generate, into the future, subjects who understand the reasoning.**
 
 For culture to sustain does not mean
@@ -1829,14 +1829,14 @@ And there is one of the most important mechanisms human society has acquired in 
 
 **Education.**
 
-Culture does not remain naturally.
+Culture does not remain naturally.  
 To entrust it to the future, we must raise the next value-creating subject.
 
 The next chapter takes up this workings from an even longer span of time.
 
 ---
 
-> **"Culture is a state in which reasoning is handed on, person to person, without end."**
+> **"Culture is a state in which reasoning is handed on, person to person, without end."**  
 > **"Education is the workings of continually generating, into the future, the value-creating subjects who carry that reasoning."**
 
 ---
@@ -1871,7 +1871,7 @@ Then,
 * Ten years ahead?
 * A hundred years ahead?
 
-We ordinarily
+We ordinarily  
 > think of the future within the span of our own lives.
 
 * An individual thinks of life a few years ahead.
@@ -1879,7 +1879,7 @@ We ordinarily
 * A politician thinks of the next election.
 * A nation sometimes thinks of population and economy decades ahead.
 
-But the time of life is far longer than that.
+But the time of life is far longer than that.  
 Over roughly four billion years,
 
 > **life has kept handing itself on into a future in which it itself will not exist.**
@@ -1888,7 +1888,7 @@ We too stand within that chain.
 
 If so, thinking about sustainability means
 
-> not only thinking about one's own future.
+> not only thinking about one's own future.  
 > **It means thinking about a future that will never come to oneself.**
 
 ---
@@ -1905,15 +1905,15 @@ There it is said, in essence, that
 
 This way of thinking overlaps closely with the principle of life discussed throughout this book.
 
-If you raise grain, you can obtain a harvest in a relatively short time.
-If you raise a tree, its benefit continues for much longer.
+If you raise grain, you can obtain a harvest in a relatively short time.  
+If you raise a tree, its benefit continues for much longer.  
 But,
 
 > **if you raise a person, that person can go on to create further value and raise yet another person.**
 
 There is a decisive difference here.
 
-It is not only the value produced by grain or trees.
+It is not only the value produced by grain or trees.  
 A person who has been raised
 
 > **becomes a subject who creates value on their own.**
@@ -1977,7 +1977,7 @@ In other words,
 
 Education is
 
-> not the workings of preserving past answers for the future.
+> not the workings of preserving past answers for the future.  
 > **It is the workings of enabling future subjects to produce their own answers.**
 
 ---
@@ -2071,7 +2071,7 @@ However excellent a technology one leaves behind,
 
 However much knowledge one preserves,
 
-> if no one questions it, combines it, and turns it into new knowledge,
+> if no one questions it, combines it, and turns it into new knowledge,  
 > knowledge merely becomes a record of the past.
 
 Therefore,
@@ -2105,7 +2105,7 @@ GitHub has installed the **Arctic Code Vault**, deep in the Arctic permafrost, t
 
 There lies the intent to leave what present-day humanity has created for a far-distant future.
 
-This in itself carries great meaning.
+This in itself carries great meaning.  
 But from this book's point of view, one question arises.
 
 > **If the code remains, does open source remain?**
@@ -2125,15 +2125,15 @@ But,
 
 Can that reasoning be received from the code alone?
 
-To leave open source behind as a living culture,
+To leave open source behind as a living culture,  
 code alone is not enough.
 
 > **We need people who understand and practice that reasoning.**
 
 This is not a matter for open source alone.
 
-When humanity tries to leave something for the future, preservation alone
-cannot hand on that value as a living thing.
+When humanity tries to leave something for the future,  
+preservation alone cannot hand on that value as a living thing.
 
 > **A preserved future and a living future are different.**
 
@@ -2149,8 +2149,8 @@ Even so, he plants trees.
 
 One tree. And then another.
 
-The results do not appear quickly.
-It is not for anyone's recognition.
+The results do not appear quickly.  
+It is not for anyone's recognition.  
 It is not for his own profit.
 
 Even so,
@@ -2188,10 +2188,10 @@ Then,
 
 > **to consider the future of a thousand years, what should we do?**
 
-We do not know what knowledge will be needed a thousand years from now.
+We do not know what knowledge will be needed a thousand years from now.  
 We do not know what technology will be used a thousand years from now.
 
-Nations, companies, and institutions
+Nations, companies, and institutions  
 may not exist in the same form as they do today.
 
 So we cannot make, today, the answer for a thousand years from now.
@@ -2227,10 +2227,10 @@ There is no special grounding in the span of a thousand years.
 
 It is,
 
-> a span of time symbolizing a future
+> a span of time symbolizing a future  
 > **that will not come either to oneself or to those who directly knew oneself.**
 
-Once we stretch the timescale that far,
+Once we stretch the timescale that far,  
 the meaning of the word "sustainability" changes.
 
 Sustainability is not
@@ -2249,8 +2249,8 @@ What we can do is not decide the future.
 
 ---
 
-> **"Education is not the workings of teaching the answers of the future."**
-> **"It is the workings of raising the value-creating subjects who can produce those answers."**
+> **"Education is not the workings of teaching the answers of the future."**  
+> **"It is the workings of raising the value-creating subjects who can produce those answers."**  
 > **"The thousand-year plan is entrusting to the future a culture that keeps generating such subjects."**
 
 ---
@@ -2271,7 +2271,7 @@ Life is a being that
 
 This definition does not explain the whole of life as biology.
 
-But we placed this simple view of life as the starting point for thinking about human society,
+But we placed this simple view of life as the starting point for thinking about human society,  
 because
 
 > **human beings are life.**
@@ -2315,8 +2315,8 @@ Growth is
 
 But growth alone does not complete the principle of life.
 
-However much knowledge one gains,
-however excellent a capacity one acquires,
+However much knowledge one gains,  
+however excellent a capacity one acquires,  
 one question still remains.
 
 > **"For what is this power to be used?"**
@@ -2356,7 +2356,7 @@ Only there does a person become a
 
 > **value-creating subject.**
 
-A value-creating subject is not simply someone who produces value.
+A value-creating subject is not simply someone who produces value.  
 They do not let what they have gained end within themselves alone.
 
 * Transmitting knowledge.
@@ -2367,7 +2367,7 @@ They do not let what they have gained end within themselves alone.
 
 This workings is also
 
-> the form in which the human being practices, through cultural means,
+> the form in which the human being practices, through cultural means,  
 > the workings of life's "leaving offspring."
 
 However,
@@ -2446,14 +2446,14 @@ But,
 * What was it trying to change?
 * What was it trying to entrust to the future?
 
-> If that **reasoning** is lost,
+> If that **reasoning** is lost,  
 > the structure left behind will eventually become an empty shell.
 
 The future's environment will differ from the present.
 
 So,
 
-> handing the past's answers to the future as they are
+> handing the past's answers to the future as they are  
 > may not be able to help the people of the future.
 
 What is needed is
@@ -2501,7 +2501,7 @@ This may look unstable.
 
 But,
 
-> just as life, over roughly four billion years, has raised its sustainability by changing,
+> just as life, over roughly four billion years, has raised its sustainability by changing,  
 > culture, too, cannot sustain if it loses the capacity to change.
 
 > **Inheritance is not repeating the same thing.**
@@ -2575,7 +2575,7 @@ When that meaning turns outward, beyond the self, a person becomes
 
 ↓
 
-But one person alone cannot hand value on to the future.
+But one person alone cannot hand value on to the future.  
 So,
 
 > **subject connects with subject, and a structure supporting that interaction**
@@ -2584,7 +2584,7 @@ is born.
 
 ↓
 
-Within that structure, subjects who understand the reasoning grow, practice it, question it again, and hand it on to the next subject.
+Within that structure, subjects who understand the reasoning grow, practice it, question it again, and hand it on to the next subject.  
 That becomes
 
 > **culture.**
@@ -2599,7 +2599,7 @@ exists.
 
 ↓
 
-And the very culture that produces value-creating subjects is entrusted to a future that will not come to oneself.
+And the very culture that produces value-creating subjects is entrusted to a future that will not come to oneself.  
 That is
 
 > **the thousand-year plan.**
@@ -2608,7 +2608,7 @@ And,
 
 > **this whole cycle raises the sustainability of human society.**
 
-The principle of life is not completed within the individual.
+The principle of life is not completed within the individual.  
 Nor is it completed within society.
 
 > **Only by continuing to be handed on to the future does it become, for the first time, the workings of life.**
@@ -2623,11 +2623,11 @@ When we think about human beings, we often begin the question from the individua
 * For what does a person work?
 * For what does a person grow?
 
-Of course, these are important questions.
+Of course, these are important questions.  
 This book, too, has thought about growth and meaning.
 
-But when we widen life's timescale to roughly four billion years,
-and further turn our gaze to a future that will not come to us,
+But when we widen life's timescale to roughly four billion years,  
+and further turn our gaze to a future that will not come to us,  
 the question itself changes.
 
 Not "for what does a person grow," but
@@ -2644,12 +2644,12 @@ the question "for what does a person live" too, eventually connects to a still l
 
 > **How does human society keep inheriting its value-creating subjects and its culture?**
 
-There is no single answer to this question.
+There is no single answer to this question.  
 Perhaps we should not even try to make a single answer.
 
 Because we do not know the environment of the future.
 
-So, we in the present do not need to decide
+So, we in the present do not need to decide  
 what the people of the future ought to think.
 
 What we can do is only
@@ -2684,7 +2684,7 @@ In human beings, this appears as
 * cultivating culture,
 * and entrusting to the future.
 
-Each of our individual lives is short.
+Each of our individual lives is short.  
 Against the roughly four-billion-year span of life, it is but a single instant.
 
 Even so, within that instant, we have received something from the past.
@@ -2696,7 +2696,7 @@ Even so, within that instant, we have received something from the past.
 * We received society.
 * And we received life itself.
 
-We do not know most of the people who produced these.
+We do not know most of the people who produced these.  
 Nor did they know us.
 
 Even so,
@@ -2719,8 +2719,8 @@ And now, it is we who are receiving that workings.
 
 ---
 
-> **"Life does not complete itself within the individual."**
-> **"Human society, too, does not complete itself in the present."**
+> **"Life does not complete itself within the individual."**  
+> **"Human society, too, does not complete itself in the present."**  
 > **"To live is to generate, raise, and entrust the future."**
 
 ---
@@ -2729,15 +2729,15 @@ And now, it is we who are receiving that workings.
 
 Facing university entrance exams, I wanted to study biology.
 
-What ruler could I trust, to explain my own existence and define the principle behind my actions?
+What ruler could I trust, to explain my own existence and define the principle behind my actions?  
 That is,
 
 > **what is life? What is a human being?**
 
 That was what I wanted to know.
 
-In the end, I did not become a biologist.
-I entered the world of information technology and came to make a living writing software.
+In the end, I did not become a biologist.  
+I entered the world of information technology and came to make a living writing software.  
 Before I knew it, I had spent half my life alongside computers.
 
 Even so, I had, all along,
@@ -2750,11 +2750,11 @@ The definition of life I encountered in my university years never disappeared fr
 * Leave offspring.
 * Evolve.
 
-When working,
-when thinking about family,
-when raising people,
-when thinking about organizations,
-when watching events in society,
+When working,  
+when thinking about family,  
+when raising people,  
+when thinking about organizations,  
+when watching events in society,  
 I returned, again and again, to these three.
 
 And each time, I thought:
@@ -2769,13 +2769,13 @@ A man,
 
 ordered by no one, seeking nothing in return, keeps planting trees on ravaged land.
 
-One tree at a time. For years. For decades.
+One tree at a time. For years. For decades.  
 Eventually a forest is born. Water returns. Creatures return. People return.
 
-The man himself does not enjoy the whole of that outcome.
+The man himself does not enjoy the whole of that outcome.  
 Even so, he plants trees.
 
-I have loved this story for a long time.
+I have loved this story for a long time.  
 I think I somehow already understood, even then, why I loved it.
 
 It was because he was
@@ -2790,13 +2790,13 @@ What he was building was not a completed future.
 
 Planting a tree is not ruling over the future.
 
-How that tree will grow.
-What creatures will live there.
+How that tree will grow.  
+What creatures will live there.  
 What people will dwell there —
 
 these are not for the one who planted it to decide.
 
-> **Even so**, if nothing is planted, that future will not be born.
+> **Even so**, if nothing is planted, that future will not be born.  
 > So he plants trees.
 
 ---
@@ -2821,14 +2821,14 @@ Even so,
 * yet another person learns from it,
 * and, someday, in a place they never knew, produces value they never could have imagined.
 
-The one who produced the value and the one who receives it may never even meet.
+The one who produced the value and the one who receives it may never even meet.  
 Even so,
 
 > **something is handed on, from person to person, across time and place.**
 
 I loved that very workings.
 
-It was not only that I loved software.
+It was not only that I loved software.  
 Nor was it only that I loved technology.
 
 > **A person leaves something behind, and the one who receives it goes on to produce something further.**
@@ -2839,7 +2839,7 @@ I was drawn to that chain.
 
 Around 2015, I became seriously involved in contributing to open source.
 
-I wrote code, joined communities,
+I wrote code, joined communities,  
 and eventually became involved in the activity of raising people as well.
 
 There, I met many people.
@@ -2887,7 +2887,7 @@ I found myself thinking about little else.
 
 That was, at times, a lonely question.
 
-Talk of the future is not as easy to evaluate as present results.
+Talk of the future is not as easy to evaluate as present results.  
 Contributing to open source, in particular, cannot be shown as ROI in a simple number, and
 
 > "So, concretely, how much money does it make?" —
@@ -2904,7 +2904,7 @@ Even so,
 
 Looking at things that way, a great many causal threads came into view.
 
-> The reasoning I had thought through about life did not, even extended to a human life or to society, break down in any major way.
+> The reasoning I had thought through about life did not, even extended to a human life or to society, break down in any major way.  
 > It held up as something that could explain phenomena, experience, and institutions, and the causal relations among them.
 
 For more than thirty years, I have kept confirming this, again and again, whenever the occasion arose.
@@ -2917,16 +2917,16 @@ Confucius said,
 
 I do not think of "heaven's mandate" as a role given by some transcendent being.
 
-Something one has kept questioning, kept choosing, kept acting on, over a long span of time, and still has not let go of —
+Something one has kept questioning, kept choosing, kept acting on, over a long span of time, and still has not let go of —  
 that takes shape as one's own mission to fulfill.
 
 For me, that is precisely where my own mandate lies.
 
 > **The contribution to open source that I began around 2015 was the opportunity to practice, within society, the principle of life I had kept thinking about all along.**
 
-Writing code,
-raising people,
-building community,
+Writing code,  
+raising people,  
+building community,  
 entrusting something to the next person —
 
 for me, these were never separate activities.
@@ -2935,7 +2935,7 @@ for me, these were never separate activities.
 
 And now, I am trying to leave that as words.
 
-This book is not a book that prophesies the future of human society.
+This book is not a book that prophesies the future of human society.  
 Nor is it a book that tries to decide how the society of the future ought to be.
 
 There was just one question I wanted to make clear, no matter what.
@@ -2950,7 +2950,7 @@ As a student preparing for entrance exams, I thought, "I must know the reason fo
 
 Life, over roughly four billion years, has connected to the present through repeated evolution and extinction.
 
-Some perished, unable to adapt to a changing environment.
+Some perished, unable to adapt to a changing environment.  
 Some changed, and remained.
 
 * Being born.
@@ -2978,14 +2978,14 @@ is not for the present alone.
 
 We
 
-> use what we received from the past,
-> add just a little something,
-> and hand it on to what comes next.
+> use what we received from the past,  
+> add just a little something,  
+> and hand it on to what comes next.  
 > **Human society, too, exists within that repetition.**
 
 ---
 
-So I do not wish to complete the future.
+So I do not wish to complete the future.  
 Nor do I wish to design an ideal society and make future people live according to it.
 
 > That would be a dystopia that destroys any further possibility.
@@ -3015,16 +3015,16 @@ To entrust to the future does not mean making people keep an existing answer.
 
 Looking back on myself, I ask whether I have managed to plant trees.
 
-Much of the software I wrote will someday go out of use.
-The projects I was involved in will someday end.
-The institutions I helped build will change.
-What I taught will someday become outdated.
+Much of the software I wrote will someday go out of use.  
+The projects I was involved in will someday end.  
+The institutions I helped build will change.  
+What I taught will someday become outdated.  
 My own name, too, will eventually be known by no one.
 
 That is fine.
 
-The tree I planted does not need to remain, unchanged, for a thousand years.
-It is enough if a seed falls from that tree, another tree grows, and it connects further to another forest.
+The tree I planted does not need to remain, unchanged, for a thousand years.  
+It is enough if a seed falls from that tree, another tree grows, and it connects further to another forest.  
 Or it may become something entirely different.
 
 What matters is not that I remain.
@@ -3037,7 +3037,7 @@ This book, too, is nothing more than something I planted, hoping it might become
 
 I do not claim that what is written here is the correct, completed theory.
 
-Someone may read it, think about it, doubt it, criticize it, rewrite it, and develop it into another idea.
+Someone may read it, think about it, doubt it, criticize it, rewrite it, and develop it into another idea.  
 Or it may prove entirely useless and be forgotten. That, too, is fine.
 
 > **Even so**, unless it is planted, nothing begins.
@@ -3046,11 +3046,11 @@ So I plant this tree.
 
 For a future that will not come to me.
 
-I cannot see that future.
-I do not know who will be there.
+I cannot see that future.  
+I do not know who will be there.  
 I do not know what kind of society it will be.
 
-But if, somewhere in a distant future, someone is once again planting a tree,
+But if, somewhere in a distant future, someone is once again planting a tree,  
 I think that will be enough.
 
 > **The future is something to be generated, raised, and entrusted.**
