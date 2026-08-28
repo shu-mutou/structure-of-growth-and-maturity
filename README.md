@@ -21,7 +21,7 @@
 
 本書の中心的な主張は、持続性とは、制度や教義、あるいは個人の成果を保存することではなく、未来の価値創造主体が、自らの未来をつくり続けられる可能性を残すことである、ということにある。
 
-本書は二部作の第二部にあたる。第一部『オープンイノベーションの構造』（https://doi.org/10.5281/zenodo.21371467）では、外部の価値を内部の価値創造へと変換し、組織を持続的に発展させるための構造を論じた。
+本書は二部作の第二部にあたる。第一部『オープンイノベーションの構造』（https://doi.org/10.5281/zenodo.21371244）では、外部の価値を内部の価値創造へと変換し、組織を持続的に発展させるための構造を論じた。
 
 では、なぜ組織は持続的に発展し続ける必要があるのか。その問いを生命の理にまで遡り、人間の成長と成熟、組織、文化、そして未来へと紐解いていくのが、本書、第二部である。
 
@@ -35,7 +35,7 @@ It traces a single thread across nine chapters: growth as the acquisition of the
 
 The central claim: sustainability is not the preservation of an institution, a doctrine, or an individual's achievement, but the continued possibility for future value-creating subjects to keep making their own future.
 
-This is Part Two of a two-part work; Part One, "The Structure of Open Innovation" (https://doi.org/10.5281/zenodo.21371467), examined the structures through which external value is converted into internal value creation, enabling organizations to develop sustainably.
+This is Part Two of a two-part work; Part One, "The Structure of Open Innovation" (https://doi.org/10.5281/zenodo.21371244), examined the structures through which external value is converted into internal value creation, enabling organizations to develop sustainably.
 
 But why must organizations continue to develop sustainably in the first place? This second part traces that question back to the principles of life itself, exploring it through human growth and maturity, organizations, culture, and ultimately, the future.
 
