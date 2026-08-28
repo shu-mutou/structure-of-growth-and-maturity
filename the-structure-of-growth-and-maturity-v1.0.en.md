@@ -1,5 +1,8 @@
-The Structure of Growth and Maturity — The Value-Creating Subject Sustaining Human Society —
-=================================================
+The Structure of Growth and Maturity
+====================================
+
+— The Value-Creating Subject Sustaining Human Society —
+--------------------------------------------------------
 
 2026-8-28  
 NEC Solution Innovators, Ltd.  
