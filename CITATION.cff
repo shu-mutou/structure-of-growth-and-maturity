@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+
+title: "The Structure of Growth and Maturity: The Value-Creating Subject Sustaining Human Society"
+
+authors:
+  - family-names: "Muto"
+    given-names: "Shu"
+
+type: report
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.22138835"
+repository-code: "https://github.com/shu-mutou/structure-of-open-innovation"
+url: "https://doi.org/10.5281/zenodo.22138835"
