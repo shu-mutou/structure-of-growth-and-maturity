@@ -3,7 +3,7 @@
 
 **The Structure of Growth and Maturity: The Value-Creating Subject Sustaining Human Society**
 
-Please refer [zenodo](https://zenodo.org/records/22138836) (DOI: [10.5281/zenodo.22138836](https://doi.org/10.5281/zenodo.22138836))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22138835.svg)](https://doi.org/10.5281/zenodo.22138835)
 
 ---
 
